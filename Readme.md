@@ -1,6 +1,6 @@
 # React-native with Navigation screens
 
-![Demo](demo/demo.gif)
+![Demo](data/demo.gif)
 
 This is a react native starter project with react navigation.
   - To quick start react native project with react native navigation.
