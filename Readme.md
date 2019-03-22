@@ -1,5 +1,7 @@
 # React-native with Navigation screens
 
+![Demo](demo/demo.gif)
+
 This is a react native starter project with react navigation.
   - To quick start react native project with react native navigation.
   - Using [ReactNavigation 3.x].
@@ -29,7 +31,7 @@ $ react-native run-android
 ```
 
 ### Todos
- - Add navigarion drawer
+ - Add navigation drawer
 
 
    [ReactNative]: <https://facebook.github.io/react-native/>
